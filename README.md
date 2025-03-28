@@ -2,6 +2,9 @@
 
 En React-applikasjon for å vise flere iframes (f.eks. sportsstrømmer) samtidig. Støtter grid- og listevisning, drag & drop, fullskjerm og lagring i localStorage.
 
+## Link til nettsiden
+[Multi-Stream Viewer](https://markusselander.netlify.app/)
+
 ## Funksjoner
 
 - **Legg til streams**: Lim inn en iframe-URL.
